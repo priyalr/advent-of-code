@@ -29,7 +29,7 @@ for i in range(1 ,numSweeps):
 # print(numChanges)
 
 # =================================================================
-# LOGIC - PART ONE
+# LOGIC - PART TWO
 # =================================================================
 
 numSweeps = len(data)
