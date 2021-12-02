@@ -8,7 +8,7 @@ from itertools import product
 # READ DATA
 # =================================================================
 
-data_location = os.path.join(os.path.abspath(""), 'day-17-conway-cubes/')
+data_location = os.path.join(os.path.abspath(""), '2020/day-17-conway-cubes/')
 
 with open(os.path.join(data_location, 'input_small.txt'), 'r') as f:
 # with open(os.path.join(data_location, 'input.txt'), 'r') as f:

@@ -8,7 +8,7 @@ import pandas as pd
 # READ DATA
 # =================================================================
 
-data_location = os.path.join(os.path.abspath(""), 'day-04-passport-processing/')
+data_location = os.path.join(os.path.abspath(""), '2020/day-04-passport-processing/')
 
 with open(os.path.join(data_location, 'input_small.txt'), 'r') as f:
 # with open(os.path.join(data_location, 'input_ptwo_one.txt'), 'r') as f:

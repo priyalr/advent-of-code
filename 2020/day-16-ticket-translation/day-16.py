@@ -7,7 +7,7 @@ import os
 # READ DATA
 # =================================================================
 
-data_location = os.path.join(os.path.abspath(""), 'day-16-ticket-translation/')
+data_location = os.path.join(os.path.abspath(""), '2020/day-16-ticket-translation/')
 
 # with open(os.path.join(data_location, 'input_small.txt'), 'r') as f:
 # with open(os.path.join(data_location, 'input_small_ptwo.txt'), 'r') as f:

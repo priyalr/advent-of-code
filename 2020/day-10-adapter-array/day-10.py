@@ -9,7 +9,7 @@ from functools import lru_cache
 # READ DATA
 # =================================================================
 
-data_location = os.path.join(os.path.abspath(""), 'day-10-adapter-array')
+data_location = os.path.join(os.path.abspath(""), '2020/day-10-adapter-array')
 
 # with open(os.path.join(data_location, 'input_small.txt'), 'r') as f:
 # with open(os.path.join(data_location, 'input_larger.txt'), 'r') as f:

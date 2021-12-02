@@ -10,7 +10,7 @@ import numpy as np
 # READ DATA
 # =================================================================
 
-data_location = os.path.join(os.path.abspath(""), 'day-13-shuttle-search/')
+data_location = os.path.join(os.path.abspath(""), '2020/day-13-shuttle-search/')
 
 with open(os.path.join(data_location, 'input_small.txt'), 'r') as f:
 # with open(os.path.join(data_location, 'input.txt'), 'r') as f:

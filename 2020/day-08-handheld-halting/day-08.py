@@ -8,7 +8,7 @@ import copy
 # READ DATA
 # =================================================================
 
-data_location = os.path.join(os.path.abspath(""), 'day-08-handheld-halting/')
+data_location = os.path.join(os.path.abspath(""), '2020/day-08-handheld-halting/')
 
 # with open(os.path.join(data_location, 'input_small.txt'), 'r') as f:
 # with open(os.path.join(data_location, 'input_small_ptwo.txt'), 'r') as f:

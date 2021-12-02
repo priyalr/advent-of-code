@@ -8,7 +8,7 @@ import copy
 # READ DATA
 # =================================================================
 
-data_location = os.path.join(os.path.abspath(""), 'day-09-encoding-error/')
+data_location = os.path.join(os.path.abspath(""), '2020/day-09-encoding-error/')
 
 # with open(os.path.join(data_location, 'input_small.txt'), 'r') as f:
 with open(os.path.join(data_location, 'input.txt'), 'r') as f:
