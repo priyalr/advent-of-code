@@ -5,4 +5,4 @@
 
 # Links
 
- - Learn more about the Advent of Code [here](https://adventofcode.com/2020/about)
+ - Learn more about the Advent of Code [here](https://adventofcode.com/about)
