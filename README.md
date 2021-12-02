@@ -1,5 +1,5 @@
-# advent-of-code-2020
-🎄Solutions to the Advent of Code 2020 - an Advent calendar of programming puzzles. 
+# advent-of-code
+🎄My solutions to the Advent of Code - an Advent calendar of programming puzzles. 
 
 🛠 solved using Python
 
